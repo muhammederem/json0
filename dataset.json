@@ -754,5 +754,33 @@
         "deaths": "61",
         "recovered": "4892",
         "id": "54"
+    },
+    {
+        "date": "04/05/2020",
+        "totalTests": "1171138",
+        "totalCases": "127659",
+        "totalDeaths": "3461",
+        "totalIntensiveCare": "1384",
+        "totalIntubated": "727",
+        "totalRecovered": "68166",
+        "tests": "35771",
+        "cases": "1614",
+        "deaths": "64",
+        "recovered": "5015",
+        "id": "55"
+    },
+    {
+        "date": "05/05/2020",
+        "totalTests": "1204421",
+        "totalCases": "129491",
+        "totalDeaths": "3520",
+        "totalIntensiveCare": "1338",
+        "totalIntubated": "707",
+        "totalRecovered": "73285",
+        "tests": "33283",
+        "cases": "1832",
+        "deaths": "59",
+        "recovered": "5119",
+        "id": "56"
     }
 ]
